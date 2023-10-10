@@ -1,6 +1,6 @@
 ### Hi, I'm Darwin! 😄
 
-I'm an undergraduate Biomedical Engineering student at Carleton University. I'm really passionate about creating person-centered solutions, especially in a medical context⚕️.
+I'm an undergraduate Biomedical Engineering student at Carleton University. I'm passionate about creating person-centered solutions, especially in a medical context⚕️.
 
 I'm also the Avionics Lead for the [CU InSpace](https://github.com/CarletonURocketry) 🚀 design team at Carleton University. Our avionics subteam is responsible for the development of the hardware and software systems that allow the rocket to deploy parachutes 🪂, track its location in real time 🛰️, and transmit telemetry 📻.
 
