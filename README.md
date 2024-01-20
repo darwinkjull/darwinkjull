@@ -2,10 +2,10 @@
 
 I'm an undergraduate Biomedical Engineering student at Carleton University. I'm passionate about creating person-centered solutions, especially in a medical context⚕️.
 
-Currently, I'm taking my first steps into the world of ML, using Numpy and Scikit-Learn.
+Currently, I'm taking my first steps into the world of ML, using Numpy and Scikit-Learn 🧮.
 <br> <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-I'm also working on my fourth-year capstone project. My team is developing an application to help educate parents on best practices for SIDS.
+I'm also working on my fourth-year capstone project. My team is developing an application to help educate parents on best practices for SIDS 📱.
 <br> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 From 2021-2024 I was the Avionics Lead for the [CU InSpace](https://github.com/CarletonURocketry) 🚀 design team at Carleton University. Our avionics subteam is responsible for the development of the hardware and software systems that allow the rocket to deploy parachutes 🪂, track its location in real time 🛰️, and transmit telemetry 📻.
